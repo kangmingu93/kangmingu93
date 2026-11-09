@@ -12,7 +12,7 @@
 
 ## 개발 중인 프로젝트
 
-- **TripSheet** — Kotlin Multiplatform과 Compose Multiplatform으로 만드는 여행 일정·진행·기록 플래너
+- **하루씩 (Harussik)** — Kotlin Multiplatform과 Compose Multiplatform으로 만드는 여행 일정·진행·기록 플래너
 - **planforge** — PRD, 기능 명세, 유저 플로우를 연결하는 로컬 AI 기획 도구
 - **모아이브**, **foreshadow** — 개발 중인 앱 서비스
 
